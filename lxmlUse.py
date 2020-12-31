@@ -45,10 +45,12 @@ def readAttributesFromNodes(rootNode):
                 bookAttr.append(keys)
             for secondNode in firstNode:
                 sn = secondNode
+                if sn.tag not in nodes: nodes.append(sn.tag)
                 key = sn.keys()
                 for keys in key:
                     if keys not in bookAttr:
                         bookAttr.append(keys)
-    print(bookAttr)
+    print("Die folgenden Nodes werden verwendet: {}".format(nodes))
+    print("Die folgenden Attribute werden verwendet: {}".format(bookAttr))
 
 readAttributesFromNodes(root)
