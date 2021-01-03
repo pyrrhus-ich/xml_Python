@@ -1,0 +1,340 @@
+<ExtItem>
+	<header>
+		<company>
+			<id>1</id>
+		</company>
+		<itemCode>102987</itemCode>
+		<description>OK RRCD ORC 610DAB-B</description>
+		<extDescription>MP3 LCD DISP.</extDescription>
+		<labelDescription>RADIOREGISTRATORE</labelDescription>
+		<signLabelDescription>OK</signLabelDescription>
+		<priceTagSpecs>Lettore CD - MP3 - CD-R/RW - Alimentazione batterie / rete - Display - 20 stazioni memorizzabili - USB 2.0 - Uscita AUX</priceTagSpecs>
+		<instoreCode>102987</instoreCode>
+		<supplierCode>28001</supplierCode>
+		<itemSupplierCode>ORC 610DAB-B</itemSupplierCode>
+		<productSign>OK</productSign>
+		<productSignCode>100539</productSignCode>
+		<model>ORC 610DAB-B</model>
+		<warranty>12</warranty>
+		<VAT>
+			<VATRate>
+				<code>"XJ"</code>
+				<id>"1"</id>
+				<value>"0.0"</value>
+			</VATRate>
+			<type>
+				<desc>"Acquisti"</desc>
+				<id>"1"</id>
+			</type>
+			<startDate>2019-06-14</startDate>
+		</VAT>
+		<VAT>
+			<VATRate>
+				<code>"T3"</code>
+				<id>"8"</id>
+				<value>"22.0"</value>
+			</VATRate>
+			<type>
+				<desc>"Vendita"</desc>
+				<id>"2"</id>
+			</type>
+			<startDate>2019-06-14</startDate>
+		</VAT>
+		<VAT>
+			<VATRate>
+				<code>"8"</code>
+				<id>"8"</id>
+				<value>"22.0"</value>
+			</VATRate>
+			<type>
+				<desc>"Prodotto"</desc>
+				<id>"3"</id>
+			</type>
+			<startDate>2019-11-27</startDate>
+		</VAT>
+		<type>
+			<desc>"Articolo"</desc>
+			<id>"1"</id>
+		</type>
+		<classType>
+			<desc>"Art.Magazzino"</desc>
+			<id>"M"</id>
+		</classType>
+		<order>
+			<key>
+				<desc>"PRIVATE LABEL"</desc>
+				<id>"L"</id>
+			</key>
+			<orderType>
+				<desc>"Riord. Centralizzato"</desc>
+				<id>"4"</id>
+			</orderType>
+		</order>
+		<createDate>2019-06-14</createDate>
+		<releaseDate>0001-01-01</releaseDate>
+		<salesChain>
+			<desc>"TUTTE"</desc>
+			<id>"0"</id>
+		</salesChain>
+		<EAN>
+			<supplierCode>28001</supplierCode>
+			<EANCode>4049011136748</EANCode>
+			<createDate>2019-06-14</createDate>
+		</EAN>
+		<productHierarchy>
+			<productGroup>
+				<desc>"RADIOREG.+CD"</desc>
+				<id>"141"</id>
+				<mainProductGroup>
+					<desc>"AUDIO PORT.VARIE"</desc>
+					<id>"15"</id>
+					<department>
+						<desc>"AUDIO"</desc>
+						<id>"6"</id>
+						<domain>
+							<desc>"BRUNO"</desc>
+							<id>"1"</id>
+						</domain>
+					</department>
+				</mainProductGroup>
+			</productGroup>
+			<subGroup>
+				<desc>"CODEICE DEFAULT"</desc>
+				<id>"3"</id>
+			</subGroup>
+		</productHierarchy>
+		<workflowStatus>
+			<desc>"ACCETTATO"</desc>
+			<id>"3"</id>
+		</workflowStatus>
+		<saleable>true</saleable>
+		<authorizations>
+			<statistics>true</statistics>
+			<printStatistics>true</printStatistics>
+			<salesVolume>true</salesVolume>
+			<printSalesVolume>true</printSalesVolume>
+			<stock>true</stock>
+		</authorizations>
+		<appreciation>false</appreciation>
+		<storePrice>true</storePrice>
+		<minPackageQuantity>4.0</minPackageQuantity>
+	</header>
+	<card>
+		<cardID>1.6.15.141</cardID>
+		<status>
+			<desc>"COMPLETA"</desc>
+			<id>"3"</id>
+		</status>
+		<name>Radioregistratori</name>
+		<group>
+			<id>000001</id>
+			<desc>Caratteristiche</desc>
+			<characteristic>
+				<code>4075</code>
+				<desc>Lettore CD</desc>
+				<value>
+					<id>0001</id>
+					<desc>Sì</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>58606</code>
+				<desc>Riproduttore MP3</desc>
+				<value>
+					<id>258074</id>
+					<desc>Sì</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>64011</code>
+				<desc>Riproduttore CD-R/RW</desc>
+				<value>
+					<ID>324336</ID>
+					<desc>Sì</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100000968</code>
+				<desc>Numero dischi</desc>
+				<value>
+					<desc>1</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100000755</code>
+				<desc>Numero stazioni memorizzabili</desc>
+				<value>
+					<desc>20</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>2765</code>
+				<desc>Display</desc>
+				<value>
+					<ID>0001</ID>
+					<desc>Sì</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>8555</code>
+				<desc>Tipo di display</desc>
+				<value>
+					<desc>Display LCD con retroilluminazione.</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>6415</code>
+				<desc>Radio</desc>
+				<value>
+					<ID>0001</ID>
+					<desc>Sì</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>8485</code>
+				<desc>Tipo di sintonizzatore</desc>
+				<value>
+					<ID>0002</ID>
+					<desc>Digitale</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>63110</code>
+				<desc>DAB</desc>
+				<value>
+					<ID>455052</ID>
+					<desc>DAB+</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100001334</code>
+				<desc>Audio</desc>
+				<value>
+					<ID>0002</ID>
+					<desc>Stereo</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>63999</code>
+				<desc>Numero di casse</desc>
+				<value>
+					<desc>2</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>63776</code>
+				<desc>Interfaccia USB 2.0</desc>
+				<value>
+					<ID>322400</ID>
+					<desc>Sì</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100000758</code>
+				<desc>Uscita AUX</desc>
+				<value>
+					<ID>0001</ID>
+					<desc>Sì</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100000166</code>
+				<desc>Altre funzioni</desc>
+				<value>
+					<desc>Doppio allarme / snooze CD/ CD-R/CD-RW/ MP3 DAB+ / FM-Radio</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100000161</code>
+				<desc>Alimentazione</desc>
+				<value>
+					<ID>0003</ID>
+					<desc>Rete + Batteria</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100000424</code>
+				<desc>Altre descrizioni strutturali</desc>
+				<value>
+					<desc>Antenna telescopica Altoparlanti stereo ad alte prestazioni integrati Jack per cuffie</desc>
+				</value>
+			</characteristic>
+		</group>
+		<group>
+			<id>000004</id>
+			<desc>Logistica</desc>
+			<characteristic>
+				<code>211</code>
+				<desc>Altezza netta del prodotto (cm)</desc>
+				<value>
+					<desc>13</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>210</code>
+				<desc>Larghezza netta del prodotto (cm)</desc>
+				<value>
+					<desc>29.5</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>212</code>
+				<desc>Profondità netta del prodotto (cm)</desc>
+				<value>
+					<desc>21</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>214</code>
+				<desc>Peso netto del prodotto (kg)</desc>
+				<value>
+					<desc>1.2</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>208</code>
+				<desc>Altezza lorda del prodotto (cm)</desc>
+				<value>
+					<desc>18.9</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>207</code>
+				<desc>Larghezza lorda del prodotto (cm)</desc>
+				<value>
+					<desc>5.6</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>209</code>
+				<desc>Profondità lorda del prodotto (cm)</desc>
+				<value>
+					<desc>12.4</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>213</code>
+				<desc>Peso lordo del prodotto (kg)</desc>
+				<value>
+					<desc>0.76</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>223</code>
+				<desc>Famiglia logistica</desc>
+				<value>
+					<id>0005</id>
+					<desc>VOLUMINOSO</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>224</code>
+				<desc>Modalità trattamento</desc>
+				<value>
+					<id>0002</id>
+					<desc>TERMORETRAZIONE</desc>
+				</value>
+			</characteristic>
+		</group>
+	</card>
+</ExtItem>

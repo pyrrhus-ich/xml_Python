@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExtItem>
+	<card>
+		<cardID>3.21.55.247</cardID>
+		<group>
+			<characteristic>
+				<code>1100001306</code>
+				<desc>Tipo di memory card</desc>
+				<value>
+					<desc>Micro SDXC</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>62861</code>
+				<desc>Capacità (GB)</desc>
+				<value>
+					<desc>64</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100001983</code>
+				<desc>Ultra DMA</desc>
+				<value>
+					<desc>No</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100001987</code>
+				<desc>Video Performance Guarantee</desc>
+				<value>
+					<desc>No</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100001984</code>
+				<desc>UHS Bus Speed</desc>
+				<value>
+					<desc>UHS-I</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100001981</code>
+				<desc>Speed Class Rating</desc>
+				<value>
+					<desc>Classe 10</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100001985</code>
+				<desc>UHS Speed Class Rating</desc>
+				<value>
+					<desc>A1</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100001986</code>
+				<desc>Video Speed Class Rating</desc>
+				<value>
+					<desc>No</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>9255</code>
+				<desc>Velocità di lettura (Mb/s)</desc>
+				<value>
+					<desc>120</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100001022</code>
+				<desc>Altre caratteristiche</desc>
+				<value>
+					<desc>Classe A1 per le performance delle applicazioni mobileStandard UHS-1 e U1</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100001015</code>
+				<desc>Contenuto della confezione</desc>
+				<value>
+					<desc>Include adattatore SD</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>1100002035</code>
+				<desc>Key Features</desc>
+				<value>
+					<desc>Classe A1 per le performance delle applicazioni mobile; Standard UHS-1 e U1; Classe SD 10; Velocità in lettura fino a 120MB/s; Include adattatore SD.</desc>
+				</value>
+			</characteristic><desc>Caratteristiche</desc><id>000001</id></group><group><characteristic>
+				<code>211</code>
+				<desc>Altezza netta del prodotto (cm)</desc>
+				<value>
+					<desc>15.200</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>210</code>
+				<desc>Larghezza netta del prodotto (cm)</desc>
+				<value>
+					<desc>10.200</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>212</code>
+				<desc>Profondità netta del prodotto (cm)</desc>
+				<value>
+					<desc>0.700</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>214</code>
+				<desc>Peso netto del prodotto (kg)</desc>
+				<value>
+					<desc>0.001</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>208</code>
+				<desc>Altezza lorda del prodotto (cm)</desc>
+				<value>
+					<desc>20</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>207</code>
+				<desc>Larghezza lorda del prodotto (cm)</desc>
+				<value>
+					<desc>10</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>209</code>
+				<desc>Profondità lorda del prodotto (cm)</desc>
+				<value>
+					<desc>1</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>213</code>
+				<desc>Peso lordo del prodotto (kg)</desc>
+				<value>
+					<desc>0.05</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>223</code>
+				<desc>Famiglia logistica</desc>
+				<value>
+					<desc>SCATOLE BASSE</desc>
+				</value>
+			</characteristic>
+			<characteristic>
+				<code>224</code>
+				<desc>Modalità trattamento</desc>
+				<value>
+					<desc>CONTROIMBALLO BUSTE</desc>
+			</value>
+			</characteristic>
+			<desc>Logistica</desc>
+			<id>000004</id>
+		</group>
+		<group>
+			<characteristic>
+				<code>1100001279</code>
+				<desc>Descrizione Marketing</desc>
+				<value>
+					<desc>&amp;lt;b&amp;gt;SanDisk Micro SDHC Ultra A1&amp;lt;/b&amp;gt;SanDisk presenta le schede di memoria Micro SD Ultra di classe A1, studiate appositamente per i dispositivi mobile. La tecnologia A1 è la nuova classe di velocità per misurare le performance delle app (fondamentale per gli smartphone). Soluzione ideale per i vostri dispositivi mobile, sono in grado di supportare trasferimento di dati rapido e di offrire agli appassionati di fotocamere e videocamere una soluzione completa ad alte prestazioni, supportando anche video in Full HD (1080p).</desc>
+				</value>
+			</characteristic>
+			<desc>Descrizione Marketing</desc>
+			<id>000003</id>
+		</group>
+		<name>Memory Card</name>
+		<status>
+			<desc>COMPLETA</desc>
+			<id>3</id>
+		</status>
+	</card>
+	<header>
+		<appreciation>false</appreciation>
+		<authorizations>
+			<printSalesVolume>true</printSalesVolume>
+			<printStatistics>true</printStatistics>
+			<salesVolume>true</salesVolume>
+			<statistics>true</statistics>
+			<stock>true</stock>
+		</authorizations>
+		<classType>
+			<desc>Art.Magazzino</desc>
+			<id>M</id>
+		</classType>
+		<company>
+			<id>1</id>
+		</company>
+		<createDate>2020-10-08</createDate>
+		<description>SAND MSDXC UL 64GB+AD SD</description>
+		<EAN>
+			<createDate>2020-10-08</createDate>
+			<EANCode>0619659182175</EANCode>
+			<supplierCode>20211</supplierCode>
+		</EAN>
+		<extDescription>3101006 120MB/SEC</extDescription>
+		<instoreCode>143167</instoreCode>
+		<itemCode>143167</itemCode>
+		<itemSupplierCode>3101006</itemSupplierCode>
+		<labelDescription>SCHEDA DI MEMORIA</labelDescription>
+		<minPackageQuantity>12</minPackageQuantity>
+		<model>SDSQUA4-064G-GN6IA</model>
+		<order>
+			<key>
+				<desc>WEB</desc>
+				<id>W</id>
+			</key>
+			<orderType>
+				<desc>Riordino Manuale</desc>
+				<id>0</id>
+			</orderType>
+		</order>
+		<priceTagSpecs>Micro SDXC - Capacità: 64 GB - Velocità di lettura 120 Mb/s - Classe 10</priceTagSpecs>
+		<productHierarchy>
+			<productGroup>
+				<desc>MEMORY CARDS MICRO SD</desc>
+				<id>249</id>
+				<mainProductGroup>
+					<department>
+						<desc>FOTOGRAFIA</desc>
+						<domain>
+							<desc>FOTOGRAFIA</desc>
+							<id>3</id>
+						</domain>
+						<id>21</id>
+					</department>
+					<desc>MEMORIA FOTO</desc>
+					<id>55</id>
+				</mainProductGroup>
+			</productGroup>
+			<subGroup>
+				<desc>CODICE DEFAULT</desc>
+				<id>1</id>
+			</subGroup>
+		</productHierarchy>
+		<productSign>SANDISK</productSign>
+		<productSignCode>100157</productSignCode>
+		<releaseDate>0001-01-01</releaseDate>
+		<saleable>true</saleable>
+		<salesChain>
+			<desc>TUTTE</desc>
+			<id>0</id>
+		</salesChain>
+		<signLabelDescription>SANDISK</signLabelDescription>
+		<storePrice>true</storePrice>
+		<supplierCode>20211</supplierCode>
+		<type>
+			<desc>Articolo</desc>
+			<id>1</id>
+		</type>
+		<vat>
+			<startDate>2020-10-12</startDate>
+			<type>
+				<desc>Acquisti</desc>
+				<id>1</id>
+			</type>
+			<vatRate>
+				<code>C3</code>
+				<id>8</id>
+				<value>22</value>
+			</vatRate>
+		</vat>
+		<vat>
+			<startDate>2020-10-12</startDate>
+			<type>
+				<desc>Vendita</desc>
+				<id>2</id>
+			</type>
+			<vatRate>
+				<code>T3</code>
+				<id>8</id>
+				<value>22</value>
+			</vatRate>
+		</vat>
+		<vat>
+			<startDate>2020-10-12</startDate>
+			<type>
+				<desc>Prodotto</desc>
+				<id>3</id>
+			</type>
+			<vatRate>
+				<code>8</code>
+				<id>8</id>
+				<value>22</value>
+			</vatRate>
+		</vat>
+		<warranty>12</warranty>
+		<workflowStatus>
+			<desc>BLOCCO SISTEMA</desc>
+			<id>2</id>
+		</workflowStatus>
+	</header>
+</ExtItem>
